@@ -26,5 +26,10 @@ SRMI是3DMigoto/GIMI的一个版本，我已经修改了它以与Star Rail兼容
 3. 如果到目前为止一切正确，则应将3DMigoto注入到游戏中，并且您应该会看到绿色文本叠加层（仅当使用“用于开发”版本时，“用于播放”版本不显示绿色文本）：
 4. 安装完成！您现在应该能够加载自定义资源并使用 3DMigoto 覆盖纹理和着色器。要添加模组，请将它们放在 Mods 文件夹中（每个角色一次一个模组），然后按 F10 将它们加载到游戏中
 
+# 视频教学
+
+[![Video Title](https://img.youtube.com/vi/Dpog-CN1jt0/0.jpg)](https://www.youtube.com/watch?v=Dpog-CN1jt0)
+
+
 
 
